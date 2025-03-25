@@ -1,0 +1,11 @@
+#chatbot-widget-plugin-admin {
+    padding: 1%;
+}
+
+.space-mid{
+    height: 40px;
+}
+
+#chatbot-widget-plugin-admin h2 {
+    font-size: 1.5rem;
+}
